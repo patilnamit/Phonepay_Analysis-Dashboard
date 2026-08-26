@@ -31,4 +31,4 @@ I analyzed 300K+ transactions worth 3.47bn to uncover how, when, and who is usin
 - **Top 5 Users:** Identified for loyalty programs
 
 ## 5. Screenshot
-Dashboard preview :- 
+Dashboard preview :- https://github.com/patilnamit/Phonepay_Analysis-Dashboard/blob/main/Screenshot%20phone%20pay%20analysis.jpg
